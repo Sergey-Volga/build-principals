@@ -61,8 +61,8 @@
     </build>
   <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://nexus/repository/maven-snapshots/</url>
+      <id>nexus</id>
+      <url>http://nexus/repository/maven-public/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
